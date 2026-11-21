@@ -1,4 +1,4 @@
-# Checkpointz
+y# Checkpointz
 
 Checkpointz simplifies the process of running an Ethereum Beacon Chain checkpoint sync endpoint.
 
